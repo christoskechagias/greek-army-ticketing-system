@@ -1,5 +1,7 @@
 # Greek Army Ticketing System
 
+https://github.com/user-attachments/assets/0549434b-d93e-473c-8512-c07a70551703
+
 ## Overview
 
 The **Greek Army Ticketing System** is a web application designed to optimize the helpdesk support process for the Greek Army. By moving away from traditional phone call methods, Army personnel can efficiently submit and track support tickets through this platform. This ensures streamlined communication and faster problem resolution. Helpdesk staff, referred to as GEP members, are responsible for managing and resolving these tickets while maintaining constant communication with the users.
