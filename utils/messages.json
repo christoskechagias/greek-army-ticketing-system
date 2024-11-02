@@ -1,0 +1,54 @@
+{
+  "INTERNAL_SERVER_ERROR": "Παρουσιάστηκε πρόβλημα με τον server. Παρακαλούμε επικοινωνήστε με τον διαχειριστή.",
+
+  "BANNER_CREATION_SUCCESS": "To banner δημιουργήθηκε επιτυχώς",
+  "BANNER_CREATION_FAILURE": "To banner δεν δημιουργήθηκε επιτυχώς",
+  "BANNER_DELETION_SUCCESS": "To banner διαγράφηκε επιτυχώς",
+  "BANNER_DELETION_FAILURE": "To banner δεν διαγράφηκε επιτυχώς",
+  "BANNER_UPDATE_SUCCESS": "To banner ενημερώθηκε επιτυχώς",
+  "BANNER_UPDATE_FAILURE": "To banner δεν ενημερώθηκε επιτυχώς",
+  "BANNER_NOT_FOUND": "To banner δεν βρέθηκε",
+
+  "TICKET_CREATION_SUCCESS": "To tiket δημιουργήθηκε επιτυχώς",
+  "TICKET_CREATION_FAILURE": "Το ticket δεν δημιουργήθηκε επιτυχώς",
+
+  "COMMENT_CREATION_SUCCESS": "To σχόλιο δημιουργήθηκε επιτυχώς",
+  "COMMENT_CREATION_FAILURE": "Το σχόλιο δεν δημιουργήθηκε επιτυχώς",
+
+  "TICKET_NOT_FOUND": "Το ticket δεν βρέθηκε",
+  "TICKETS_DELETION_SUCCESS": "Τα tickets διαγράφηκαν επιτυχώς",
+  "TICKETS_DELETION_FAILURE": "Τα tickets δεν διαγράφηκαν επιτυχώς",
+  "TICKET_DELETION_SUCCESS": "Τα ticket διαγράφηκε επιτυχώς",
+  "TICKET_DELETION_FAILURE": "Τα ticket δεν διαγράφηκε επιτυχώς",
+  "TICKET_STATUS_UPDATE_AS_COMPLETED_SUCCESS": "Η ενημέρωση της κατάστασης του ticket ως ολοκληρωμένο ήταν επιτυχής",
+  "TICKET_STATUS_UPDATE_AS_COMPLETED_FAILURE": "Η ενημέρωση της κατάστασης του ticket ως ολοκληρωμένο ήταν ανεεπιτυχής",
+  "TICKET_STATUS_UPDATE_AS_INPROGRESS_SUCCESS": "Η ενημέρωση της κατάστασης του ticket ως σε εξέλιξη ήταν ανεεπιτυχής",
+  "TICKET_STATUS_UPDATE_AS_INPROGRESS_FAILURE": "Η ενημέρωση της κατάστασης του ticket ως σε εξέλιξη ήταν ανεεπιτυχής",
+
+  "TICKET_ALREADY_ASSIGNED": "Έχει ανατεθεί σε άλλος μέλος του ΓΕΠ",
+
+  "ROLES_NOT_FOUND": "Δεν βρέθηκαν ρόλοι",
+  "MEMBER_NOT_FOUND": "Το συγκεκριμένο μέλος του ΓΕΠ δεν βρέθηκε",
+
+  "USER_DELETION_SUCCESS": "Ο χρήστης διαγράφηκε επιτυχώς",
+  "USER_DELETION_FAILURE": "Ο χρήστης δεν διαγράφηκε επιτυχώς",
+  "USER_NOT_LOGGED_IN": "USER_NOT_LOGGED_IN",
+  "USER_NOT_FOUND": "Ο χρήστης δεν βρέθηκε",
+  "USER_CREATION_SUCCESS": "Ο χρήστης δημιουργήθηκε επιτυχώς",
+  "USER_CREATION_FAILURE": "Ο χρήστης δεν δημιουργήθηκε επιτυχώς",
+  "USER_UPDATE_SUCCESS": "Ο χρήστης ενημερώθηκε επιτυχώς",
+  "USER_UPDATE_FAILURE": "Ο χρήστης δεν ενημερώθηκε επιτυχώς",
+  "USER_ROLE_UPDATE_SUCCESS": "Ο ρόλος του χρήστη ενημερώθηκε επιτυχώς",
+  "USER_ROLE_UPDATE_FAILURE": "Ο ρόλος του χρήστη δεν ενημερώθηκε επιτυχώς",
+  "USERNAME_ALREADY_EXISTS": "Το username χρησιμοποιείται ήδη",
+  "MISSING_REQUIRED_FIELDS": "Συμπληρώστε όλα τα υποχρεωτικά πεδία",
+
+  "PASSWORD_UPDATE_SUCCESS": "Ο κωδικός χρήστη ενημερώθηκε επιτυχώς",
+  "PASSWORD_UPDATE_FAILURE": "Ο κωδικός χρήστη δεν ενημερώθηκε επιτυχώς",
+
+  "INVALID_USERNAME_OR_PASSWORD": "Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης",
+  "INVALID_CREDENTIALS": "Μη έγκυρα διαπιστευτήρια",
+  "UNAUTHORIZED_ACCESS": "Μη εξουσιοδοτημένη πρόσβαση",
+  "INVALID_ID_TOKEN": "Invalid token",
+  "ID_TOKEN_EXPIRED": "Token expired"
+}
